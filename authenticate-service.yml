@@ -1,0 +1,15 @@
+server:
+  port: 9001
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8061/eureka/
+
+jwt:
+  secret: BuOuxxqARo0oK2mJ3vPHGM8C0ia4pd3YG4lxA9i8bj6OTbadwezxgeEByPD5DTbWC9F9TWvPStp3pb7Y
+  expiration: 86400
+
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} ${LOG_LEVEL_PATTERN:-%5p} %m%n"
