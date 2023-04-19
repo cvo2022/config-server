@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8061/eureka/
 application:
-  message: Course App 1
+  message: Course App Final
 
 logging:
   pattern:
