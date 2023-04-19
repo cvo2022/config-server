@@ -5,6 +5,9 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8061/eureka/
+      
+application:
+  message: Authenticate Application
 
 jwt:
   secret: BuOuxxqARo0oK2mJ3vPHGM8C0ia4pd3YG4lxA9i8bj6OTbadwezxgeEByPD5DTbWC9F9TWvPStp3pb7Y
