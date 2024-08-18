@@ -12,4 +12,4 @@ logging:
 
 spring: 
   message: 
-    name: Message from order 2
+    name: Message from order 3
