@@ -12,5 +12,5 @@ logging:
 
 spring: 
   message: 
-    name: samsung
+    name: samsung 2
     
