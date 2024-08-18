@@ -12,5 +12,5 @@ logging:
 
 spring: 
   message: 
-    name: iphone
+    name: samsung
     
