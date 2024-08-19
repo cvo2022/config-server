@@ -12,4 +12,4 @@ logging:
 
 spring: 
   message: 
-    name: Order 1
+    name: Order refresh
